@@ -1,0 +1,27 @@
+{
+  "name": "mongodbtutorial",
+  "version": "1.0.0",
+  "description": "Building a Simple CRUD Application with Express and MongoDB. https://zellwk.com/blog/crud-express-mongodb/",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BakerShoeMaker/MongoDBTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BakerShoeMaker/MongoDBTutorial/issues"
+  },
+  "homepage": "https://github.com/BakerShoeMaker/MongoDBTutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.5"
+  }
+}
